@@ -41,4 +41,4 @@ services:
       - share-net
 networks:
   share-net:
-    name: share-net
+    name: share-net 12345
